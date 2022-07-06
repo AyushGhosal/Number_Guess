@@ -1,3 +1,6 @@
+//guessig the number 
+// by AYUSH KUMAR GHOSAL UEMK
+
 import java.util.Scanner;
 import java.util.Random;
 class Game
